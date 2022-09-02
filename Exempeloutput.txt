@@ -1,0 +1,63 @@
+Dr. Anna tested patient Ali positive for Atopiska vinterfötter.
+Dr. Anna tested patient Betty positive for Blodförgiftning.
+Dr. Anna tested patient Cecilia, patient is healthy.
+Dr. Anna tested patient Dennis positive for Diskbråck.
+Dr. Anna tested patient Eschwar positive for Epikondylit.
+Dr. Anna tested patient Fadel positive for Förkylning.
+Dr. Anna tested patient Gunnar positive for Gallsten.
+Dr. Anna tested patient Helena, patient is healthy.
+Dr. Anna tested patient Isabel positive for Insomni.
+Dr. Anna tested patient Jinghua positive for Järnbrist.
+Dr. Anna fetched medication for Atopiska vinterfötter
+Dr. Bertil treated patient Ali for Atopiska vinterfötter.
+Ali is now healthy.
+Dr. Bertil fetched medication for Atopiska vinterfötter
+Dr. Anna treated patient Betty for Atopiska vinterfötter.
+Betty is still sick.
+Dr. Anna fetched medication for Epikondylit
+Dr. Bertil treated patient Eschwar for Epikondylit.
+Eschwar is now healthy.
+Dr. Bertil fetched medication for Förkylning
+Dr. Anna treated patient Fadel for Förkylning.
+Fadel is now healthy.
+Dr. Anna fetched medication for Gallsten
+Dr. Bertil treated patient Helena for Gallsten.
+Helena is now healthy.
+Dr. Bertil fetched medication for Halsfluss
+Dr. Anna treated patient Helena for Halsfluss.
+Helena is now healthy.
+Dr. Anna fetched medication for Järnbrist
+Dr. Bertil treated patient Jinghua for Järnbrist.
+Jinghua is now healthy.
+Dr. Bertil tested patient Ali, patient is healthy.
+Dr. Bertil tested patient Betty positive for Blodförgiftning.
+Dr. Bertil tested patient Cecilia, patient is healthy.
+Dr. Bertil tested patient Dennis positive for Diskbråck.
+Dr. Bertil tested patient Eschwar, patient is healthy.
+Dr. Bertil tested patient Fadel, patient is healthy.
+Dr. Bertil tested patient Gunnar positive for Gallsten.
+Dr. Bertil tested patient Helena, patient is healthy.
+Dr. Bertil tested patient Isabel positive for Insomni.
+Dr. Bertil tested patient Jinghua, patient is healthy.
+Dr. Anna fetched medication for Blodförgiftning
+Dr. Bertil treated patient Betty for Blodförgiftning.
+Betty is now healthy.
+Dr. Bertil fetched medication for Diskbråck
+Dr. Anna treated patient Dennis for Diskbråck.
+Dennis is now healthy.
+Dr. Anna fetched medication for Gallsten
+Dr. Bertil treated patient Gunnar for Gallsten.
+Gunnar is now healthy.
+Dr. Bertil fetched medication for Insomni
+Dr. Anna treated patient Isabel for Insomni.
+Isabel is now healthy.
+Dr. Anna tested patient Ali, patient is healthy.
+Dr. Anna tested patient Betty, patient is healthy.
+Dr. Anna tested patient Cecilia, patient is healthy.
+Dr. Anna tested patient Dennis, patient is healthy.
+Dr. Anna tested patient Eschwar, patient is healthy.
+Dr. Anna tested patient Fadel, patient is healthy.
+Dr. Anna tested patient Gunnar, patient is healthy.
+Dr. Anna tested patient Helena, patient is healthy.
+Dr. Anna tested patient Isabel, patient is healthy.
+Dr. Anna tested patient Jinghua, patient is healthy.
